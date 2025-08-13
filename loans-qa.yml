@@ -9,8 +9,4 @@ loans:
   onCallSupport:
     - +91-8017056260
     - +91-9836330560
-  management:
-    endpoints:
-      web:
-        exposure:
-          include: refresh  
+ 
