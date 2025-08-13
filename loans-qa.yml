@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to Loans Microservice for QA 5"
+  message: "Welcome to Loans Microservice for QA 50"
   contactDetails:
     name: "Gourab Mukherjee - Tester"
     email: "gourab.mukherjee3@gmail.com"
