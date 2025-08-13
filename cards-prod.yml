@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Cards Microservice for Prod"
+  contactDetails:
+    name: "Gourab Mukherjee - Production Manager"
+    email: "gourab.mukherjee3@gmail.com"
+  onCallSupport:
+    - +91-8017056260
+    - +91-9836330560

@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Accounts Microservice for local"
+  contactDetails:
+    name: "Gourab Mukherjee - Developer"
+    email: "gourab.mukherjee3@gmail.com"
+  onCallSupport:
+    - +91-8017056261
+    - +91-9836330564

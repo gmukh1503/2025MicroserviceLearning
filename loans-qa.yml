@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Loans Microservice for QA"
+  contactDetails:
+    name: "Gourab Mukherjee - Tester"
+    email: "gourab.mukherjee3@gmail.com"
+  onCallSupport:
+    - +91-8017056260
+    - +91-9836330560
