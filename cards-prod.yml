@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Cards Microservice for Prod"
+  message: "Welcome to Cards Microservice for Production"
   contactDetails:
     name: "Gourab Mukherjee - Production Manager"
     email: "gourab.mukherjee3@gmail.com"
